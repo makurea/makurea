@@ -1,6 +1,6 @@
-### 🌦️~~ Salut ~~༄˖°.🍂.ೃ࿔*:･
+### 🌦️~~ Salut ~~🌞
 <div id="header" align="center">
-   <img src="https://i.pinimg.com/originals/8e/14/55/8e145599d4847e339828787162952035.gif" width="550"/>
+   <img src="https://i.pinimg.com/originals/8e/14/55/8e145599d4847e339828787162952035.gif" width="350"/>
 </div>
 
 ### 👨‍💼 Professional Overview:
@@ -12,10 +12,16 @@
 
 ### 🚀 My Stats:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makurea&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Makurea&theme=tokyonight_duo)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=makurea&theme=tokyonight_duo)](https://git.io/streak-stats)
+### 🗓️ Full-year Calendar:
+![Metrics](https://github.com/Makurea/Makurea/blob/main/metrics.plugin.isocalendar.fullyear.svg)
 
-### ⚙️ Tech Stack :
+### 🏆 Achievements (Compact Display):
+![Metrics](https://github.com/Makurea/Makurea/blob/main/metrics.plugin.achievements.compact.svg)
+
+### ⚙️ Tech Stack (QA / Java Testing):
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
