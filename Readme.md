@@ -15,7 +15,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=makurea&theme=tokyonight_duo)](https://git.io/streak-stats)
 
-### ⚙️ Tech Stack (QA / Java Testing):
+### ⚙️ Tech Stack :
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
