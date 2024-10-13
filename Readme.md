@@ -1,6 +1,6 @@
 ### 🌦️~~ Salut ~~༄˖°.🍂.ೃ࿔*:･
 <div id="header" align="center">
-   <img src="https://i.pinimg.com/originals/8e/14/55/8e145599d4847e339828787162952035.gif" width="250"/>
+   <img src="https://i.pinimg.com/originals/8e/14/55/8e145599d4847e339828787162952035.gif" width="550"/>
 </div>
 
 ### 👨‍💼 Professional Overview:
