@@ -1,6 +1,6 @@
 ### 🌦️~~ Salut ~~༄˖°.🍂.ೃ࿔*:･
 <div id="header" align="center">
-   <img src="https://i.pinimg.com/originals/8e/14/55/8e145599d4847e339828787162952035.gif" width="250"/>
+   <img src="https://i.pinimg.com/originals/8e/14/55/8e145599d4847e339828787162952035.gif" width="350"/>
 </div>
 
 ### 👨‍💼 Professional Overview:
@@ -12,10 +12,10 @@
 
 ### 🚀 My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu-ko&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ryu-ko&theme=tokyonight_duo)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makurea&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Makurea&theme=default)](https://git.io/streak-stats)
 
-### ⚙️ Tech Stack (QA / Java Testing):
+### ⚙️ Tech Stack :
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
