@@ -14,7 +14,7 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makurea&theme=default)](https://github.com/anuraghazra/github-readme-stats)-->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Makurea&show_icons=true&theme=transparent)
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=Makurea&theme=default)(https://git.io/streak-stats)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=Makurea&theme=default)](https://git.io/streak-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makurea&layout=pie)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ### ⚙️ Tech Stack :
