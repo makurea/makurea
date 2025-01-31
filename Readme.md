@@ -16,6 +16,12 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Makurea&show_icons=true&theme=transparent)
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=Makurea&theme=default)](https://git.io/streak-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Makurea&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Makurea&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Makurea&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Makurea&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Makurea&theme=vue)
+
 ### ⚙️ Tech Stack :
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
