@@ -68,3 +68,8 @@
 - **Agile Methodology**: Experience working in Scrum-based teams with iterative delivery.
 - **Bug Tracking**: Familiar with Jira for defect tracking and agile board management.
 - **Operating Systems**: Confident in using Linux for scripting, testing, and environment setup.
+
+---
+
+### 📬 Contact me
+<div align="center"> <a href="https://t.me/baronet" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a> </div>
