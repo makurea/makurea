@@ -1,6 +1,6 @@
 ### 🌦️~~ Salut ~~༄˖°.🍂.ೃ࿔*:･
 <div id="header" align="center">
-   <img src="https://media1.tenor.com/m/_ZBoQbD6dMEAAAAd/pink-old-school.gif" width="550" height="550"/>
+   <img src="https://media1.tenor.com/m/_ZBoQbD6dMEAAAAd/pink-old-school.gif" width="450" height="450"/>
 </div>
 
 ### 👨‍💼 Professional Overview:
