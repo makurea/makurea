@@ -12,8 +12,15 @@
 
 ### 🚀 My Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Makurea&show_icons=true&theme=transparent)
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=Makurea&theme=default)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Makurea&theme=transparent&hide_border=true&mode=weekly" height="150" alt="GitHub Streak" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Makurea&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="150" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makurea&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
+</a>
 
 ---
 
