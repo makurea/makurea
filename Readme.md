@@ -12,15 +12,9 @@
 
 ### 🚀 My Stats:
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Makurea&theme=transparent&hide_border=true&mode=weekly" height="150" alt="GitHub Streak" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Makurea&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="150" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makurea&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=Makurea&color=blueviolet)
+![Repos](https://badges.pufler.dev/repos/Makurea)
+![Commits](https://badges.pufler.dev/commits/monthly/Makurea)
 
 ---
 
