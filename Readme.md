@@ -12,10 +12,9 @@
 
 ### 🚀 My Stats:
 
-[![GitHub Stats](https://github-readme-stats-git-main-username.vercel.app/api?username=Makurea&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Makurea&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![Makurea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makurea&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=Makurea&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makurea&layout=compact&theme=default)
 
 ### ⚙️ Tech Stack :
 
