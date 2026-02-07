@@ -12,15 +12,10 @@
 
 ### 🚀 My Stats:
 
-<div align="center">
+[![GitHub Stats](https://github-readme-stats-git-main-username.vercel.app/api?username=Makurea&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Makurea&theme=transparent&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makurea&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Makurea&layout=compact&theme=transparent&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Makurea&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
----
 
 ### ⚙️ Tech Stack :
 
