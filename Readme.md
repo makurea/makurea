@@ -12,9 +12,13 @@
 
 ### 🚀 My Stats:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Makurea&theme=flat&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
 
-[![Makurea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makurea&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Makurea&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makurea&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Makurea&layout=compact&theme=transparent&hide_border=true)
+
+</div>
 
 ---
 
