@@ -12,9 +12,9 @@
 
 ### 🚀 My Stats:
 
-![Profile Views](https://komarev.com/ghpvc/?username=Makurea&color=blueviolet)
-![Repos](https://badges.pufler.dev/repos/Makurea)
-![Commits](https://badges.pufler.dev/commits/monthly/Makurea)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Makurea&theme=flat&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Makurea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makurea&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
