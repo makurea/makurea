@@ -12,9 +12,7 @@
 
 ### 🚀 My Stats:
 
-![Makurea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makurea&show_icons=true&theme=default)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Makurea&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makurea&layout=compact&theme=default)
 
 ### ⚙️ Tech Stack :
 
