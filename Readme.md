@@ -14,7 +14,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Makurea&theme=default)
 
-### ⚙️ Tech Stack :
+### ⚙️ Tech Stack : 
 
 <div align="center">
 
