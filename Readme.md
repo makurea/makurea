@@ -55,7 +55,7 @@
 
 </div>
 
----
+--- 
 
 ### 📊 Areas of Expertise:
 - **Manual Testing**: Experience with functional, regression, and integration testing.
