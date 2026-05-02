@@ -57,7 +57,7 @@
 
 --- 
 
-### 📊 Areas of Expertise:
+### 📊 Areas of Expertise: 
 - **Manual Testing**: Experience with functional, regression, and integration testing.
 - **Test Automation**: Proficient in writing test scripts using Selenium, Pytest, TestNG, and JUnit.
 - **API Testing**: Skilled in testing RESTful APIs using Requests and Postman.
