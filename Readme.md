@@ -40,7 +40,7 @@
 
 </div>
 
-<div align="center">  
+<div align="center">   
 
 <h4>🌐 Tools & Platforms:</h4>
 
