@@ -10,7 +10,7 @@
 - 🌐 Proven ability to work effectively in Agile development environments
 - 💡 Goal-oriented and dedicated to continuous improvement in both technical and soft skills
 
-### 🚀 My Stats:
+### 🚀 My Stats :
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Makurea&theme=default)
 
