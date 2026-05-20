@@ -42,7 +42,7 @@
 
 <div align="center">        
 
-<h4>🌐 Tools & Platforms:</h4>
+<h4>🌐 Tools & Platforms:</h4>  
 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
