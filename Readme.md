@@ -19,40 +19,36 @@
 <div align="center">
 
 <h4>🐍 Python Stack:</h4>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-<img src="https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white"/>
 
-</div>
-
-<div align="center">   
-
-<h4>☕ Java Stack:</h4> 
-
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>  
-<img src="https://img.shields.io/badge/TestNG-FF5733?style=for-the-badge&logo=testng&logoColor=white"/>
+<h4>☕ Java Stack:</h4>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
-<img src="https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logo=java&logoColor=white" alt="Rest Assured"/>
-<img src="https://img.shields.io/badge/Retrofit-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Retrofit"/> 
+<img src="https://img.shields.io/badge/Selenide-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 
-</div>
-
-<div align="center">        
-
-<h4>🌐 Tools & Platforms:</h4>  
-
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>  
+<h4>📱 Mobile & API Testing:</h4>
+<img src="https://img.shields.io/badge/Appium-8A2BE2?style=for-the-badge&logo=appium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/DevTools-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Charles_Proxy-8A2BE2?style=for-the-badge&logo=charles&logoColor=white"/>
+<img src="https://img.shields.io/badge/WireMock-00BFFF?style=for-the-badge&logo=wiremock&logoColor=white"/>
 
+<h4>📊 Performance & Monitoring:</h4>
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+
+<h4>🗄️ DB & Logs:</h4>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+
+<h4>⚙️ CI/CD & Tools:</h4>
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Allure_Report-FFD700?style=for-the-badge&logo=allure&logoColor=black"/>
 </div>
 
 --- 
