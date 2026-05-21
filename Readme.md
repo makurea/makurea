@@ -54,15 +54,16 @@
 --- 
 
 ### 📊 Areas of Expertise: 
-- **Manual Testing**: Experience with functional, regression, and integration testing.
-- **Test Automation**: Proficient in writing test scripts using Selenium, Pytest, TestNG, and JUnit.
-- **API Testing**: Skilled in testing RESTful APIs using Requests and Postman.
-- **Browser Debugging**: Confident in using Chrome DevTools for UI and network inspection.
-- **Version Control**: Experienced with Git for project and test case versioning.
-- **CI/CD Pipelines**: Working knowledge of Jenkins and Docker for automated testing and deployment.
-- **Agile Methodology**: Experience working in Scrum-based teams with iterative delivery.
-- **Bug Tracking**: Familiar with Jira for defect tracking and agile board management.
-- **Operating Systems**: Confident in using Linux for scripting, testing, and environment setup.
+- **Manual Testing**: Functional, regression, integration, UI pixel-perfect (Figma, DevTools) — checklists, test cases, test plans (TestRail / Jira)
+- **Test Automation**: Java + Selenide / Selenium WebDriver (Page Object), Rest Assured + JUnit, Appium, Allure reports
+- **API Testing**: REST / SOAP (Postman, Swagger, WireMock, Mockoon), JSON / XML validation
+- **Performance Testing**: JMeter, Grafana, Prometheus, InfluxDB — reduced 95th percentile latency from 450ms → 250ms
+- **Backend & Data**: SQL (PostgreSQL, DBeaver), Redis cache validation, Kafka + Kibana logs analysis
+- **Mobile Testing**: Android Studio, ADB, Logcat, Appium Inspector, real devices
+- **CI/CD & Tools**: Git (GitLab / GitHub), GitLab CI, GitHub Actions, Jenkins, Docker
+- **Debugging**: Chrome DevTools, Charles Proxy, cookies / localStorage / sessionStorage
+- **Tracking**: Jira, Confluence, TestRail
+- **OS**: Windows, Linux (bash), Android
 
 ---
 
