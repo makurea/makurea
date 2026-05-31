@@ -54,7 +54,7 @@
 --- 
 
 ### 📊 Areas of Expertise: 
-- **Manual Testing**: Functional, regression, integration, UI pixel-perfect (Figma, DevTools) — checklists, test cases, test plans (TestRail / Jira)
+- **Manual Testing**: Functional, regression, integration, UI pixel-perfect (Figma, DevTools) — checklists, test cases, test plans (TestRail / Jira) 
 - **Test Automation**: Java + Selenide / Selenium WebDriver (Page Object), Rest Assured + JUnit, Appium, Allure reports
 - **API Testing**: REST / SOAP (Postman, Swagger, WireMock, Mockoon), JSON / XML validation
 - **Performance Testing**: JMeter, Grafana, Prometheus, InfluxDB — reduced 95th percentile latency from 450ms → 250ms
