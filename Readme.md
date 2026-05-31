@@ -12,7 +12,7 @@
 
 ### 🚀 My Stats :
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Makurea&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=Makurea&theme=default)  
 
 ### ⚙️ Tech Stack : 
 
