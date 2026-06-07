@@ -4,7 +4,7 @@
 </div>
 
 ### 👨‍💼 Professional Overview:
-- 🎯 Passionate about improving software quality through comprehensive testing strategies 
+- 🎯 Passionate about improving software quality through comprehensive testing strategies  
 - 🛠 Strong focus on automation testing and continuous integration practices
 - 📚 Actively expanding knowledge in test frameworks and DevOps tools
 - 🌐 Proven ability to work effectively in Agile development environments
