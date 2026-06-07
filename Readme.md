@@ -61,7 +61,7 @@
 - **Backend & Data**: SQL (PostgreSQL, DBeaver), Redis cache validation, Kafka + Kibana logs analysis
 - **Mobile Testing**: Android Studio, ADB, Logcat, Appium Inspector, real devices
 - **CI/CD & Tools**: Git (GitLab / GitHub), GitLab CI, GitHub Actions, Jenkins, Docker
-- **Debugging**: Chrome DevTools, Charles Proxy, cookies / localStorage / sessionStorage
+- **Debugging**: Chrome DevTools, Charles Proxy, cookies / localStorage / sessionStorage 
 - **Tracking**: Jira, Confluence, TestRail
 - **OS**: Windows, Linux (bash), Android
 
