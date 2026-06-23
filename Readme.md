@@ -3,7 +3,7 @@
    <img src="https://media1.tenor.com/m/_ZBoQbD6dMEAAAAd/pink-old-school.gif" width="450" height="450"/>          
 </div>
 
-### 👨‍💼 Professional Overview:  
+### 👨‍💼 Professional Overview:   
 - 🎯 Passionate about improving software quality through comprehensive testing strategies  
 - 🛠 Strong focus on automation testing and continuous integration practices
 - 📚 Actively expanding knowledge in test frameworks and DevOps tools
