@@ -1,4 +1,4 @@
-### Salut ᨐᵉᵒʷ                                      
+### Salut ᨐᵉᵒʷ                                       
 <div id="header" align="center">             
    <img src="https://media1.tenor.com/m/_ZBoQbD6dMEAAAAd/pink-old-school.gif" width="450" height="450"/>          
 </div>
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 
-<h4>☕ Java Stack:</h4>
+<h4>☕ Java Stack:</h4> 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>  
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
