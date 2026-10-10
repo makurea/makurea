@@ -1,7 +1,7 @@
 ### Salut ᨐᵉᵒʷ                                              
 <div id="header" align="center">               
    <img src="https://media1.tenor.com/m/_ZBoQbD6dMEAAAAd/pink-old-school.gif" width="450" height="450"/>     
-    <img src="https://x.com/EmpressTrash/status/2108740650439266596" width="450" height="450"/>    
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmVqZjNtZHhjZDAyNDlicnVhMHI1bmR5cGdpam9zNmpqdnMweXhmaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUA7aZDG3JgiJV5oKQ/giphy.gif" width="450" height="450"/>    
 </div>
 
 ### 👨‍💼 Professional Overview:    
